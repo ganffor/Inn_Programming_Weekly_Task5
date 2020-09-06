@@ -1,7 +1,5 @@
 #include <iostream>
 #include <windows.h>
-#include <string>
-
 
 char input;
 
